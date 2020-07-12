@@ -6,6 +6,7 @@ body,html{
     margin:0px;
     font-size:15px;
     background:white;
+    font-family:Noto seriff;
 }
 #btn{
     border-radius:30px;
