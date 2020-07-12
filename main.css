@@ -39,7 +39,7 @@ nav{
     box-shadow:3px 2px 2px 2px whitesmoke;
     background:green;
     font-size:15px;
-    top:0px;
+    top:0;
     position:sticky;
 }
 .head{
